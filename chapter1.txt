@@ -1,0 +1,4 @@
+hello am trying out vim for the first time.:WQ
+:wq
+:
+
